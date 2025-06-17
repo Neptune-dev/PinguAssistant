@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: e522c3933ae0d4346b22be593e81d640
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -989325753923607247
+    second: tuxearth_0
+  - first:
+      213: -5955872113919498068
+    second: tuxearth_1
+  - first:
+      213: -668909680715890668
+    second: tuxearth_2
+  - first:
+      213: 3076281485010892666
+    second: tuxearth_3
+  - first:
+      213: -8633172835673565125
+    second: tuxearth_4
+  - first:
+      213: 8264079539872870736
+    second: tuxearth_5
+  - first:
+      213: 2362236826546824292
+    second: tuxearth_6
+  - first:
+      213: -480429037305963541
+    second: tuxearth_7
+  - first:
+      213: -7284093510187575192
+    second: tuxearth_8
+  - first:
+      213: -6885785233198173629
+    second: tuxearth_9
+  - first:
+      213: 7345004388893057472
+    second: tuxearth_10
+  - first:
+      213: 5743894105643596956
+    second: tuxearth_11
+  - first:
+      213: -4003789991223355761
+    second: tuxearth_12
+  - first:
+      213: -8496027135588892878
+    second: tuxearth_13
+  - first:
+      213: 3923378078580371140
+    second: tuxearth_14
+  - first:
+      213: 4925451526481403298
+    second: tuxearth_15
+  - first:
+      213: 1996382270255768096
+    second: tuxearth_16
+  - first:
+      213: 1954848058977728435
+    second: tuxearth_17
+  - first:
+      213: -3669938190145963478
+    second: tuxearth_18
+  - first:
+      213: 5155007305263028546
+    second: tuxearth_19
+  - first:
+      213: -9170458133426976596
+    second: tuxearth_20
+  - first:
+      213: -633950432835751194
+    second: tuxearth_21
+  - first:
+      213: -4211098878842870882
+    second: tuxearth_22
+  - first:
+      213: -7173037274307310047
+    second: tuxearth_23
+  - first:
+      213: -3707278183106738034
+    second: tuxearth_24
+  - first:
+      213: 5492112089105457006
+    second: tuxearth_25
+  - first:
+      213: -3319527072157314218
+    second: tuxearth_26
+  - first:
+      213: -848037155936989954
+    second: tuxearth_27
+  - first:
+      213: 2281301045182735722
+    second: tuxearth_28
+  - first:
+      213: 412608307649382194
+    second: tuxearth_29
+  - first:
+      213: 802900751814158175
+    second: tuxearth_30
+  - first:
+      213: 6161247171134636469
+    second: tuxearth_31
+  - first:
+      213: -969222160938524613
+    second: tuxearth_32
+  - first:
+      213: -1914750301959248331
+    second: tuxearth_33
+  - first:
+      213: -5494735000322921822
+    second: tuxearth_34
+  - first:
+      213: 1475268546313800538
+    second: tuxearth_35
+  - first:
+      213: 7116963135348716033
+    second: tuxearth_36
+  - first:
+      213: 763895672481725006
+    second: tuxearth_37
+  - first:
+      213: 3385310524440764026
+    second: tuxearth_38
+  - first:
+      213: 5799113449456470965
+    second: tuxearth_39
+  - first:
+      213: -802622102852175693
+    second: tuxearth_40
+  - first:
+      213: 2608512217115349239
+    second: tuxearth_41
+  - first:
+      213: -1702076650915334093
+    second: tuxearth_42
+  - first:
+      213: -3472002832319692430
+    second: tuxearth_43
+  - first:
+      213: 5069095355376554950
+    second: tuxearth_44
+  - first:
+      213: -5287172811042191171
+    second: tuxearth_45
+  - first:
+      213: 3704840031582891979
+    second: tuxearth_46
+  - first:
+      213: -3575297010393080830
+    second: tuxearth_47
+  - first:
+      213: 3492192660524868203
+    second: tuxearth_48
+  - first:
+      213: -5342962988387030580
+    second: tuxearth_49
+  - first:
+      213: -5757828302559034626
+    second: tuxearth_50
+  - first:
+      213: -4056203590843449424
+    second: tuxearth_51
+  - first:
+      213: 18041443890307390
+    second: tuxearth_52
+  - first:
+      213: -9097600056868694614
+    second: tuxearth_53
+  - first:
+      213: -501402803869805514
+    second: tuxearth_54
+  - first:
+      213: -1329014933123021308
+    second: tuxearth_55
+  - first:
+      213: 6540371878079128681
+    second: tuxearth_56
+  - first:
+      213: -7251962250013615944
+    second: tuxearth_57
+  - first:
+      213: 1957490177102309710
+    second: tuxearth_58
+  - first:
+      213: -5113716749805092199
+    second: tuxearth_59
+  - first:
+      213: 7089075698472359604
+    second: tuxearth_60
+  - first:
+      213: -6020110191583827211
+    second: tuxearth_61
+  - first:
+      213: -2833012204872870434
+    second: tuxearth_62
+  - first:
+      213: 3508128960001806044
+    second: tuxearth_63
+  - first:
+      213: 4180857642007007235
+    second: tuxearth_64
+  - first:
+      213: 5218565645257089662
+    second: tuxearth_65
+  - first:
+      213: -7731989481551956309
+    second: tuxearth_66
+  - first:
+      213: 7173045732169883821
+    second: tuxearth_67
+  - first:
+      213: 8731451670431199051
+    second: tuxearth_68
+  - first:
+      213: 3311480785259748412
+    second: tuxearth_69
+  - first:
+      213: -1159567068926593880
+    second: tuxearth_70
+  - first:
+      213: -8544138815375584890
+    second: tuxearth_71
+  - first:
+      213: 1614997218910324912
+    second: tuxearth_72
+  - first:
+      213: -2972923468675726792
+    second: tuxearth_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tuxearth_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 287
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135ec3ee7753542f0800000000000000
+      internalID: -989325753923607247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 287
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca86c223edd785da0800000000000000
+      internalID: -5955872113919498068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 287
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4100c1e703e87b6f0800000000000000
+      internalID: -668909680715890668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 287
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a777f2736b521ba20800000000000000
+      internalID: 3076281485010892666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 287
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b381025eb0fc03880800000000000000
+      internalID: -8633172835673565125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 287
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05132b97e88efa270800000000000000
+      internalID: 8264079539872870736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 255
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4646ba9c0e958c020800000000000000
+      internalID: 2362236826546824292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 255
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb5893065c2559f0800000000000000
+      internalID: -480429037305963541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 255
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8689a869b83b9ea90800000000000000
+      internalID: -7284093510187575192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 255
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342b79710d6c070a0800000000000000
+      internalID: -6885785233198173629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 255
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1e7a18392bee560800000000000000
+      internalID: 7345004388893057472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cb852b14966bf40800000000000000
+      internalID: 5743894105643596956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 255
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f861ed9473eaf68c0800000000000000
+      internalID: -4003789991223355761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 255
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ff425855c081a80800000000000000
+      internalID: -8496027135588892878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 223
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce66555393a27630800000000000000
+      internalID: 3923378078580371140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 223
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad54523118ba5440800000000000000
+      internalID: 4925451526481403298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022ab76f81394bb10800000000000000
+      internalID: 1996382270255768096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7ba31d3f3012b10800000000000000
+      internalID: 1954848058977728435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 223
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ab5b409a2c11dc0800000000000000
+      internalID: -3669938190145963478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 223
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2491fbce4d34a8740800000000000000
+      internalID: 5155007305263028546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca84e713aecfbb080800000000000000
+      internalID: -9170458133426976596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2be9da071c337f0800000000000000
+      internalID: -633950432835751194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93668c81eb2f85c0800000000000000
+      internalID: -4211098878842870882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 191
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ec6487a90447c90800000000000000
+      internalID: -7173037274307310047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880e5c622a1d8cc0800000000000000
+      internalID: -3707278183106738034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f52c9b8d6e73c40800000000000000
+      internalID: 5492112089105457006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65355c927bbaee1d0800000000000000
+      internalID: -3319527072157314218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc0b0423ba2b34f0800000000000000
+      internalID: -848037155936989954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 193
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6528d7b63fc8af10800000000000000
+      internalID: 2281301045182735722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_29
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23701d8d111e9b500800000000000000
+      internalID: 412608307649382194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 159
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57e6c5daf9742b00800000000000000
+      internalID: 802900751814158175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 159
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b14cd098a5218550800000000000000
+      internalID: 6161247171134636469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30a2dc6491ac82f0800000000000000
+      internalID: -969222160938524613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 159
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536a522ceb07d65e0800000000000000
+      internalID: -1914750301959248331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 161
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaa8da21a7ceb3b0800000000000000
+      internalID: -5494735000322921822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 161
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b47533de4397410800000000000000
+      internalID: 1475268546313800538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 159
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b20aa34884c260800000000000000
+      internalID: 7116963135348716033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 163
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a3bbb1117e99a00800000000000000
+      internalID: 763895672481725006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7edeaf5cf90bfe20800000000000000
+      internalID: 3385310524440764026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 127
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0b0f05f69a7050800000000000000
+      internalID: 5799113449456470965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b87e9e23738cd4f0800000000000000
+      internalID: -802622102852175693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f05d6d7a0c433420800000000000000
+      internalID: 2608512217115349239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33874b1dd420168e0800000000000000
+      internalID: -1702076650915334093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 128
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2714f68c1d7f0dfc0800000000000000
+      internalID: -3472002832319692430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c35dc55e5b095640800000000000000
+      internalID: 5069095355376554950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 127
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db80abb475030a6b0800000000000000
+      internalID: -5287172811042191171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf2520316c3a6330800000000000000
+      internalID: 3704840031582891979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 95
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c1101df4ef16ec0800000000000000
+      internalID: -3575297010393080830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62afc9e8b2c67030800000000000000
+      internalID: 3492192660524868203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a125687bf9d5b0800000000000000
+      internalID: -5342962988387030580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 104
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef247444aa51810b0800000000000000
+      internalID: -5757828302559034626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 105
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfbc17235875b7c0800000000000000
+      internalID: -4056203590843449424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 103
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31215ef898104000800000000000000
+      internalID: 18041443890307390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa594cd03f4deb180800000000000000
+      internalID: -9097600056868694614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63494f17ec8aa09f0800000000000000
+      internalID: -501402803869805514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 67
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4064302b5f36e8de0800000000000000
+      internalID: -1329014933123021308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9646cdb129114ca50800000000000000
+      internalID: 6540371878079128681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8556391cadb5b90800000000000000
+      internalID: -7251962250013615944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49ef71e1f66a2b10800000000000000
+      internalID: 1957490177102309710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99207eda5bd6809b0800000000000000
+      internalID: -5113716749805092199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b69c49c9c4716260800000000000000
+      internalID: 7089075698472359604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faefe93da5447ca0800000000000000
+      internalID: -6020110191583827211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5d43cd86e1fa8d0800000000000000
+      internalID: -2833012204872870434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde0b27c3b06fa030800000000000000
+      internalID: 3508128960001806044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3001e40dfd3650a30800000000000000
+      internalID: 4180857642007007235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 32
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e722b922ec11c6840800000000000000
+      internalID: 5218565645257089662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6f909488472b490800000000000000
+      internalID: -7731989481551956309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da02e97c617cb8360800000000000000
+      internalID: 7173045732169883821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 35
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fea8578095c2970800000000000000
+      internalID: 8731451670431199051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 35
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c50fdaa3eb4fd20800000000000000
+      internalID: 3311480785259748412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4b36bf4e368efe0800000000000000
+      internalID: -1159567068926593880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68159e5240f1d6980800000000000000
+      internalID: -8544138815375584890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8c46af96f996610800000000000000
+      internalID: 1614997218910324912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxearth_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83249214bdd0eb6d0800000000000000
+      internalID: -2972923468675726792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tuxearth_0: -989325753923607247
+      tuxearth_1: -5955872113919498068
+      tuxearth_10: 7345004388893057472
+      tuxearth_11: 5743894105643596956
+      tuxearth_12: -4003789991223355761
+      tuxearth_13: -8496027135588892878
+      tuxearth_14: 3923378078580371140
+      tuxearth_15: 4925451526481403298
+      tuxearth_16: 1996382270255768096
+      tuxearth_17: 1954848058977728435
+      tuxearth_18: -3669938190145963478
+      tuxearth_19: 5155007305263028546
+      tuxearth_2: -668909680715890668
+      tuxearth_20: -9170458133426976596
+      tuxearth_21: -633950432835751194
+      tuxearth_22: -4211098878842870882
+      tuxearth_23: -7173037274307310047
+      tuxearth_24: -3707278183106738034
+      tuxearth_25: 5492112089105457006
+      tuxearth_26: -3319527072157314218
+      tuxearth_27: -848037155936989954
+      tuxearth_28: 2281301045182735722
+      tuxearth_29: 412608307649382194
+      tuxearth_3: 3076281485010892666
+      tuxearth_30: 802900751814158175
+      tuxearth_31: 6161247171134636469
+      tuxearth_32: -969222160938524613
+      tuxearth_33: -1914750301959248331
+      tuxearth_34: -5494735000322921822
+      tuxearth_35: 1475268546313800538
+      tuxearth_36: 7116963135348716033
+      tuxearth_37: 763895672481725006
+      tuxearth_38: 3385310524440764026
+      tuxearth_39: 5799113449456470965
+      tuxearth_4: -8633172835673565125
+      tuxearth_40: -802622102852175693
+      tuxearth_41: 2608512217115349239
+      tuxearth_42: -1702076650915334093
+      tuxearth_43: -3472002832319692430
+      tuxearth_44: 5069095355376554950
+      tuxearth_45: -5287172811042191171
+      tuxearth_46: 3704840031582891979
+      tuxearth_47: -3575297010393080830
+      tuxearth_48: 3492192660524868203
+      tuxearth_49: -5342962988387030580
+      tuxearth_5: 8264079539872870736
+      tuxearth_50: -5757828302559034626
+      tuxearth_51: -4056203590843449424
+      tuxearth_52: 18041443890307390
+      tuxearth_53: -9097600056868694614
+      tuxearth_54: -501402803869805514
+      tuxearth_55: -1329014933123021308
+      tuxearth_56: 6540371878079128681
+      tuxearth_57: -7251962250013615944
+      tuxearth_58: 1957490177102309710
+      tuxearth_59: -5113716749805092199
+      tuxearth_6: 2362236826546824292
+      tuxearth_60: 7089075698472359604
+      tuxearth_61: -6020110191583827211
+      tuxearth_62: -2833012204872870434
+      tuxearth_63: 3508128960001806044
+      tuxearth_64: 4180857642007007235
+      tuxearth_65: 5218565645257089662
+      tuxearth_66: -7731989481551956309
+      tuxearth_67: 7173045732169883821
+      tuxearth_68: 8731451670431199051
+      tuxearth_69: 3311480785259748412
+      tuxearth_7: -480429037305963541
+      tuxearth_70: -1159567068926593880
+      tuxearth_71: -8544138815375584890
+      tuxearth_72: 1614997218910324912
+      tuxearth_73: -2972923468675726792
+      tuxearth_8: -7284093510187575192
+      tuxearth_9: -6885785233198173629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 293093594004dbc46b954e62aaf0fde2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5920575088136256654
+    second: tuxice_0
+  - first:
+      213: 5495078707082258044
+    second: tuxice_1
+  - first:
+      213: -4650771299887566459
+    second: tuxice_2
+  - first:
+      213: -4828386631055246274
+    second: tuxice_3
+  - first:
+      213: 8305810749133165963
+    second: tuxice_4
+  - first:
+      213: 1903198248220837798
+    second: tuxice_5
+  - first:
+      213: -8909265361406003592
+    second: tuxice_6
+  - first:
+      213: -8109266912588965381
+    second: tuxice_7
+  - first:
+      213: 2911898063116652281
+    second: tuxice_8
+  - first:
+      213: -4627309841675519793
+    second: tuxice_9
+  - first:
+      213: -2073583027828647126
+    second: tuxice_10
+  - first:
+      213: 3790865723634592606
+    second: tuxice_11
+  - first:
+      213: 9056619080831993180
+    second: tuxice_12
+  - first:
+      213: -4988293419416303396
+    second: tuxice_13
+  - first:
+      213: 980283962250713906
+    second: tuxice_14
+  - first:
+      213: -5986822060641943522
+    second: tuxice_15
+  - first:
+      213: -6031080665779493435
+    second: tuxice_16
+  - first:
+      213: -2420488359481282467
+    second: tuxice_17
+  - first:
+      213: 6066448632407593407
+    second: tuxice_18
+  - first:
+      213: 4510949094351652868
+    second: tuxice_19
+  - first:
+      213: 1715671482937194703
+    second: tuxice_20
+  - first:
+      213: -7674326768832400587
+    second: tuxice_21
+  - first:
+      213: -2499521131239492233
+    second: tuxice_22
+  - first:
+      213: 7589785209171018543
+    second: tuxice_23
+  - first:
+      213: 3989689402925601382
+    second: tuxice_24
+  - first:
+      213: 8180921219883045791
+    second: tuxice_25
+  - first:
+      213: 3096155090025174765
+    second: tuxice_26
+  - first:
+      213: 2896191376860095906
+    second: tuxice_27
+  - first:
+      213: 668072008698635677
+    second: tuxice_28
+  - first:
+      213: 553674454855056894
+    second: tuxice_29
+  - first:
+      213: 1996876782409879838
+    second: tuxice_30
+  - first:
+      213: 727122441394068216
+    second: tuxice_31
+  - first:
+      213: -581454510585896875
+    second: tuxice_32
+  - first:
+      213: -1230654073967104664
+    second: tuxice_33
+  - first:
+      213: 6989647476229889355
+    second: tuxice_34
+  - first:
+      213: 8212989272956912531
+    second: tuxice_35
+  - first:
+      213: 5135394121697421363
+    second: tuxice_36
+  - first:
+      213: -9216489725292061639
+    second: tuxice_37
+  - first:
+      213: -5789685231363973625
+    second: tuxice_38
+  - first:
+      213: 2758391489196686446
+    second: tuxice_39
+  - first:
+      213: 3607068721953421966
+    second: tuxice_40
+  - first:
+      213: 7019361495594968463
+    second: tuxice_41
+  - first:
+      213: -492403573987605475
+    second: tuxice_42
+  - first:
+      213: 3288348434594595729
+    second: tuxice_43
+  - first:
+      213: 5309041275698648172
+    second: tuxice_44
+  - first:
+      213: 830214705860903961
+    second: tuxice_45
+  - first:
+      213: -8737080231100482180
+    second: tuxice_46
+  - first:
+      213: 7742470580866683749
+    second: tuxice_47
+  - first:
+      213: 2648186427133919778
+    second: tuxice_48
+  - first:
+      213: 4658442601080138419
+    second: tuxice_49
+  - first:
+      213: -4116294144164673119
+    second: tuxice_50
+  - first:
+      213: -6133789856065948133
+    second: tuxice_51
+  - first:
+      213: 7631979840422050886
+    second: tuxice_52
+  - first:
+      213: -6888209355008810964
+    second: tuxice_53
+  - first:
+      213: 8094785889447921281
+    second: tuxice_54
+  - first:
+      213: 575832965623455752
+    second: tuxice_55
+  - first:
+      213: 5499510154616368743
+    second: tuxice_56
+  - first:
+      213: -8687891191517689120
+    second: tuxice_57
+  - first:
+      213: 4129530383967616600
+    second: tuxice_58
+  - first:
+      213: -6139055296153359508
+    second: tuxice_59
+  - first:
+      213: -5569629586653826775
+    second: tuxice_60
+  - first:
+      213: -4456127725499020716
+    second: tuxice_61
+  - first:
+      213: 204198998637154112
+    second: tuxice_62
+  - first:
+      213: 4242485318624618201
+    second: tuxice_63
+  - first:
+      213: -2621730913132978193
+    second: tuxice_64
+  - first:
+      213: -8843608002341743197
+    second: tuxice_65
+  - first:
+      213: 5465528263459739573
+    second: tuxice_66
+  - first:
+      213: 7752305337766922128
+    second: tuxice_67
+  - first:
+      213: -4303831884253828541
+    second: tuxice_68
+  - first:
+      213: -1764114293853194441
+    second: tuxice_69
+  - first:
+      213: 4638392400492615234
+    second: tuxice_70
+  - first:
+      213: 5597804939346228480
+    second: tuxice_71
+  - first:
+      213: 4167273273486132893
+    second: tuxice_72
+  - first:
+      213: 4842081131798853987
+    second: tuxice_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tuxice_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 287
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c73629cab1a2250800000000000000
+      internalID: 5920575088136256654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 287
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76637c48f0724c40800000000000000
+      internalID: 5495078707082258044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581be92c424257fb0800000000000000
+      internalID: -4650771299887566459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 287
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cf4b1e0ff1efcb0800000000000000
+      internalID: -4828386631055246274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 287
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8514b9ceda244370800000000000000
+      internalID: 8305810749133165963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 287
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7495229b4896a10800000000000000
+      internalID: 1903198248220837798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 255
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f3bb6b5eeb5480800000000000000
+      internalID: -8909265361406003592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 255
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf95e4e25b8167f80800000000000000
+      internalID: -8109266912588965381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 255
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe473a4cd3296820800000000000000
+      internalID: 2911898063116652281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 255
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f24d273e78cfb0800000000000000
+      internalID: -4627309841675519793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 255
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b9ef5f8372933e0800000000000000
+      internalID: -2073583027828647126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 255
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba1707a4cdb9430800000000000000
+      internalID: 3790865723634592606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 255
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55040be1139fad70800000000000000
+      internalID: 9056619080831993180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 255
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8c54c609506cab0800000000000000
+      internalID: -4988293419416303396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b57f4e11baa9d00800000000000000
+      internalID: 980283962250713906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 223
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1007fd2e098aeca0800000000000000
+      internalID: -5986822060641943522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 223
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ac78a61c4d4ca0800000000000000
+      internalID: -6031080665779493435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 223
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50762e49a2b86ed0800000000000000
+      internalID: -2420488359481282467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 223
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb11fc6c3ea503450800000000000000
+      internalID: 6066448632407593407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40843b02d4c1a9e30800000000000000
+      internalID: 4510949094351652868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 223
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc83dbbaf1a4fc710800000000000000
+      internalID: 1715671482937194703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 223
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533397dc6705f7590800000000000000
+      internalID: -7674326768832400587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77533ef26caef4dd0800000000000000
+      internalID: -2499521131239492233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 191
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2307227f65545960800000000000000
+      internalID: 7589785209171018543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6625589af593e5730800000000000000
+      internalID: 3989689402925601382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93959e4188788170800000000000000
+      internalID: 8180921219883045791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6d77676a0c7fa20800000000000000
+      internalID: 3096155090025174765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 191
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5ab4b66b6513820800000000000000
+      internalID: 2896191376860095906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 193
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d952ddac3f7754900800000000000000
+      internalID: 668072008698635677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdf7d2bbfb0fa700800000000000000
+      internalID: 553674454855056894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1114cb8ad456bb10800000000000000
+      internalID: 1996876782409879838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 159
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa128b0202471a00800000000000000
+      internalID: 727122441394068216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550aa7b04324ee7f0800000000000000
+      internalID: -581454510585896875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 159
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dadc7d3a6dbeee0800000000000000
+      internalID: -1230654073967104664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 161
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d53edc857300160800000000000000
+      internalID: 6989647476229889355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 161
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c0beba366af170800000000000000
+      internalID: 8212989272956912531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 159
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3386765ceb5944740800000000000000
+      internalID: 5135394121697421363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 163
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cdde70d63781080800000000000000
+      internalID: -9216489725292061639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e993705f7e6afa0800000000000000
+      internalID: -5789685231363973625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 127
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c7701e176c74620800000000000000
+      internalID: 2758391489196686446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ab47c34e1ee0230800000000000000
+      internalID: 3607068721953421966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f852efe0718c96160800000000000000
+      internalID: 7019361495594968463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14065eee81aa29f0800000000000000
+      internalID: -492403573987605475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 128
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19309b59a7f82ad20800000000000000
+      internalID: 3288348434594595729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6497e769e08da940800000000000000
+      internalID: 5309041275698648172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 127
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914052650e3858b00800000000000000
+      internalID: 830214705860903961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dfa2322d7afb680800000000000000
+      internalID: -8737080231100482180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 95
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5639870d8f7c27b60800000000000000
+      internalID: 7742470580866683749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2220458568f30c420800000000000000
+      internalID: 2648186427133919778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baadeb3ddc16a040800000000000000
+      internalID: 4658442601080138419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 104
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a94b02f84cffd6c0800000000000000
+      internalID: -4116294144164673119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 105
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b167b46cf9660eaa0800000000000000
+      internalID: -6133789856065948133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 103
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c7c499a3d3ae960800000000000000
+      internalID: 7631979840422050886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c206d20461a2860a0800000000000000
+      internalID: -6888209355008810964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1864361e0e4765070800000000000000
+      internalID: 8094785889447921281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 67
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80022f50805cdf700800000000000000
+      internalID: 575832965623455752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eef84195f225c40800000000000000
+      internalID: 5499510154616368743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eac752edf86e6780800000000000000
+      internalID: -8687891191517689120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e7299410a0f4930800000000000000
+      internalID: 4129530383967616600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 68
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b6c48fbb1bdcaa0800000000000000
+      internalID: -6139055296153359508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9213efc6663b4b2b0800000000000000
+      internalID: -5569629586653826775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a8cd77177a822c0800000000000000
+      internalID: -4456127725499020716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f024948e575d200800000000000000
+      internalID: 204198998637154112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d62e6d6be550ea30800000000000000
+      internalID: 4242485318624618201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 33
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef5c0200adbd9bd0800000000000000
+      internalID: -2621730913132978193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_65
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 32
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a55e979061354580800000000000000
+      internalID: -8843608002341743197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7106d7ff479db40800000000000000
+      internalID: 5465528263459739573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09746f791a8b59b60800000000000000
+      internalID: 7752305337766922128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 35
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aec0634b7b544c0800000000000000
+      internalID: -4303831884253828541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 35
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737f0bb756b9487e0800000000000000
+      internalID: -1764114293853194441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246db302051ee5040800000000000000
+      internalID: 4638392400492615234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005b8a31fe56fad40800000000000000
+      internalID: 5597804939346228480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96ce1c86f025d930800000000000000
+      internalID: 4167273273486132893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxice_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369fd7a8227823340800000000000000
+      internalID: 4842081131798853987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tuxice_0: 5920575088136256654
+      tuxice_1: 5495078707082258044
+      tuxice_10: -2073583027828647126
+      tuxice_11: 3790865723634592606
+      tuxice_12: 9056619080831993180
+      tuxice_13: -4988293419416303396
+      tuxice_14: 980283962250713906
+      tuxice_15: -5986822060641943522
+      tuxice_16: -6031080665779493435
+      tuxice_17: -2420488359481282467
+      tuxice_18: 6066448632407593407
+      tuxice_19: 4510949094351652868
+      tuxice_2: -4650771299887566459
+      tuxice_20: 1715671482937194703
+      tuxice_21: -7674326768832400587
+      tuxice_22: -2499521131239492233
+      tuxice_23: 7589785209171018543
+      tuxice_24: 3989689402925601382
+      tuxice_25: 8180921219883045791
+      tuxice_26: 3096155090025174765
+      tuxice_27: 2896191376860095906
+      tuxice_28: 668072008698635677
+      tuxice_29: 553674454855056894
+      tuxice_3: -4828386631055246274
+      tuxice_30: 1996876782409879838
+      tuxice_31: 727122441394068216
+      tuxice_32: -581454510585896875
+      tuxice_33: -1230654073967104664
+      tuxice_34: 6989647476229889355
+      tuxice_35: 8212989272956912531
+      tuxice_36: 5135394121697421363
+      tuxice_37: -9216489725292061639
+      tuxice_38: -5789685231363973625
+      tuxice_39: 2758391489196686446
+      tuxice_4: 8305810749133165963
+      tuxice_40: 3607068721953421966
+      tuxice_41: 7019361495594968463
+      tuxice_42: -492403573987605475
+      tuxice_43: 3288348434594595729
+      tuxice_44: 5309041275698648172
+      tuxice_45: 830214705860903961
+      tuxice_46: -8737080231100482180
+      tuxice_47: 7742470580866683749
+      tuxice_48: 2648186427133919778
+      tuxice_49: 4658442601080138419
+      tuxice_5: 1903198248220837798
+      tuxice_50: -4116294144164673119
+      tuxice_51: -6133789856065948133
+      tuxice_52: 7631979840422050886
+      tuxice_53: -6888209355008810964
+      tuxice_54: 8094785889447921281
+      tuxice_55: 575832965623455752
+      tuxice_56: 5499510154616368743
+      tuxice_57: -8687891191517689120
+      tuxice_58: 4129530383967616600
+      tuxice_59: -6139055296153359508
+      tuxice_6: -8909265361406003592
+      tuxice_60: -5569629586653826775
+      tuxice_61: -4456127725499020716
+      tuxice_62: 204198998637154112
+      tuxice_63: 4242485318624618201
+      tuxice_64: -2621730913132978193
+      tuxice_65: -8843608002341743197
+      tuxice_66: 5465528263459739573
+      tuxice_67: 7752305337766922128
+      tuxice_68: -4303831884253828541
+      tuxice_69: -1764114293853194441
+      tuxice_7: -8109266912588965381
+      tuxice_70: 4638392400492615234
+      tuxice_71: 5597804939346228480
+      tuxice_72: 4167273273486132893
+      tuxice_73: 4842081131798853987
+      tuxice_8: 2911898063116652281
+      tuxice_9: -4627309841675519793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: 47d04b7f1c843bf40b3f45a1426c9bf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2079721523629164887
+    second: tuxair_0
+  - first:
+      213: 3306733661610987649
+    second: tuxair_1
+  - first:
+      213: -8433985519498789935
+    second: tuxair_2
+  - first:
+      213: -217715323657146672
+    second: tuxair_3
+  - first:
+      213: 7425443645036839110
+    second: tuxair_4
+  - first:
+      213: 2992860841950377089
+    second: tuxair_5
+  - first:
+      213: -1661513945928954329
+    second: tuxair_6
+  - first:
+      213: -2139474025248081315
+    second: tuxair_7
+  - first:
+      213: 5646594316782446547
+    second: tuxair_8
+  - first:
+      213: 4891522202411849230
+    second: tuxair_9
+  - first:
+      213: -7756823370215792830
+    second: tuxair_10
+  - first:
+      213: -1949972095993787223
+    second: tuxair_11
+  - first:
+      213: 4406116773932002431
+    second: tuxair_12
+  - first:
+      213: -229449410363332169
+    second: tuxair_13
+  - first:
+      213: -3909254878416762049
+    second: tuxair_14
+  - first:
+      213: -1256107876973223150
+    second: tuxair_15
+  - first:
+      213: 1252855000362026670
+    second: tuxair_16
+  - first:
+      213: -6731029072023276314
+    second: tuxair_17
+  - first:
+      213: -1282748387634469468
+    second: tuxair_18
+  - first:
+      213: 4770966523483821235
+    second: tuxair_19
+  - first:
+      213: 5346434951443606463
+    second: tuxair_20
+  - first:
+      213: 2799709946828112737
+    second: tuxair_21
+  - first:
+      213: 4008826366032740629
+    second: tuxair_22
+  - first:
+      213: 8043322759851942675
+    second: tuxair_23
+  - first:
+      213: -7282232914397986213
+    second: tuxair_24
+  - first:
+      213: 6683546270505886519
+    second: tuxair_25
+  - first:
+      213: -1060449079876776771
+    second: tuxair_26
+  - first:
+      213: 4942221249150959717
+    second: tuxair_27
+  - first:
+      213: -7483395446582225762
+    second: tuxair_28
+  - first:
+      213: -2123420178424029527
+    second: tuxair_29
+  - first:
+      213: 8484640917297133619
+    second: tuxair_30
+  - first:
+      213: -3919391728525065953
+    second: tuxair_31
+  - first:
+      213: -4148139058250181251
+    second: tuxair_32
+  - first:
+      213: -2167416675440367980
+    second: tuxair_33
+  - first:
+      213: 1060026205822298736
+    second: tuxair_34
+  - first:
+      213: 762309445129017766
+    second: tuxair_35
+  - first:
+      213: -677651457933873373
+    second: tuxair_36
+  - first:
+      213: -274337020688736841
+    second: tuxair_37
+  - first:
+      213: -3556056067964973834
+    second: tuxair_38
+  - first:
+      213: -7030046036501913547
+    second: tuxair_39
+  - first:
+      213: -4655988777674819431
+    second: tuxair_40
+  - first:
+      213: 6984166724920204027
+    second: tuxair_41
+  - first:
+      213: -8013563271971242450
+    second: tuxair_42
+  - first:
+      213: -4484863930883025717
+    second: tuxair_43
+  - first:
+      213: -8961049021305634717
+    second: tuxair_44
+  - first:
+      213: -2432104124047253125
+    second: tuxair_45
+  - first:
+      213: 1108995127995137900
+    second: tuxair_46
+  - first:
+      213: 6510117739663391826
+    second: tuxair_47
+  - first:
+      213: 6884100622128622071
+    second: tuxair_48
+  - first:
+      213: 6563064716512601658
+    second: tuxair_49
+  - first:
+      213: 1405394320676453161
+    second: tuxair_50
+  - first:
+      213: 1759703633294741562
+    second: tuxair_51
+  - first:
+      213: 5047849722840496726
+    second: tuxair_52
+  - first:
+      213: -1639996517120653682
+    second: tuxair_53
+  - first:
+      213: -5305893232576443493
+    second: tuxair_54
+  - first:
+      213: -305120684194717960
+    second: tuxair_55
+  - first:
+      213: 7092185037560495103
+    second: tuxair_56
+  - first:
+      213: -4314348773423348436
+    second: tuxair_57
+  - first:
+      213: 3269721240548993217
+    second: tuxair_58
+  - first:
+      213: 860356762367558247
+    second: tuxair_59
+  - first:
+      213: -4292649449806264679
+    second: tuxair_60
+  - first:
+      213: 6817762716753062671
+    second: tuxair_61
+  - first:
+      213: 3461064585812154004
+    second: tuxair_62
+  - first:
+      213: 4134939292184716326
+    second: tuxair_63
+  - first:
+      213: -7751144551123796225
+    second: tuxair_64
+  - first:
+      213: 1906226189522445328
+    second: tuxair_65
+  - first:
+      213: 7979155911590926947
+    second: tuxair_66
+  - first:
+      213: -5086232716265115746
+    second: tuxair_67
+  - first:
+      213: -4074110551836992442
+    second: tuxair_68
+  - first:
+      213: -1634743694524311357
+    second: tuxair_69
+  - first:
+      213: 4584627889713277087
+    second: tuxair_70
+  - first:
+      213: 8502859766817816572
+    second: tuxair_71
+  - first:
+      213: -7560760603466213774
+    second: tuxair_72
+  - first:
+      213: 8723063128307196175
+    second: tuxair_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tuxair_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 287
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a679580b485323e0800000000000000
+      internalID: -2079721523629164887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 287
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1805623deb0e3ed20800000000000000
+      internalID: 3306733661610987649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 287
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db7c7dead674fa80800000000000000
+      internalID: -8433985519498789935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 287
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dea14f01158afcf0800000000000000
+      internalID: -217715323657146672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 287
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c04a1a47a97c0760800000000000000
+      internalID: 7425443645036839110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 287
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184f0a23417c88920800000000000000
+      internalID: 2992860841950377089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 255
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e0c878edd11f8e0800000000000000
+      internalID: -1661513945928954329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 255
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ab9ee95bf0f42e0800000000000000
+      internalID: -2139474025248081315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 255
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ae8a3d9bbc5e40800000000000000
+      internalID: 5646594316782446547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 255
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06d1b5d68d22e340800000000000000
+      internalID: 4891522202411849230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 255
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd6d00e3a3a5490800000000000000
+      internalID: -7756823370215792830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 255
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9accd58c5be40f4e0800000000000000
+      internalID: -1949972095993787223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 255
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c6b1d7cdba52d30800000000000000
+      internalID: 4406116773932002431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 255
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9ee591af4d0dcf0800000000000000
+      internalID: -229449410363332169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b818376698fb9c0800000000000000
+      internalID: -3909254878416762049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213e0718a88619ee0800000000000000
+      internalID: -1256107876973223150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 223
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea686a32cf8036110800000000000000
+      internalID: 1252855000362026670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 223
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4b935b8b49692a0800000000000000
+      internalID: -6731029072023276314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 223
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5a7d24323c23ee0800000000000000
+      internalID: -1282748387634469468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 223
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4988386c0e53240800000000000000
+      internalID: 4770966523483821235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 223
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb678ff24a523a40800000000000000
+      internalID: 5346434951443606463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 223
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16341d6fc519ad620800000000000000
+      internalID: 2799709946828112737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5110a99175632a730800000000000000
+      internalID: 4008826366032740629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 191
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3132aca4f6f9f9f60800000000000000
+      internalID: 8043322759851942675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 191
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5286ad4fbf40fa90800000000000000
+      internalID: -7282232914397986213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733e36d0ce9b0cc50800000000000000
+      internalID: 6683546270505886519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc0e8b2e278841f0800000000000000
+      internalID: -1060449079876776771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 191
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c7058a0c469440800000000000000
+      internalID: 4942221249150959717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 193
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d0b47d73a52890800000000000000
+      internalID: -7483395446582225762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 192
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae932c19981882e0800000000000000
+      internalID: -2123420178424029527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 161
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3387d32f5ff7fb570800000000000000
+      internalID: 8484640917297133619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 161
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11c8ad1df58b99c0800000000000000
+      internalID: -3919391728525065953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 161
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75131a1189de66c0800000000000000
+      internalID: -4148139058250181251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4966e14640acbe1e0800000000000000
+      internalID: -2167416675440367980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 161
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aa4aac738f5be00800000000000000
+      internalID: 1060026205822298736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 161
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a917d5c664449a00800000000000000
+      internalID: 762309445129017766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 159
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f6350e69f7896f0800000000000000
+      internalID: -677651457933873373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 163
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bddb15eeeb513cf0800000000000000
+      internalID: -274337020688736841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc4393d8d956aec0800000000000000
+      internalID: -3556056067964973834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 127
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53029a76062407e90800000000000000
+      internalID: -7030046036501913547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 127
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998bc7c00ea926fb0800000000000000
+      internalID: -4655988777674819431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 127
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfad8f2f1aebce060800000000000000
+      internalID: 6984166724920204027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e790d69aa1ac090800000000000000
+      internalID: -8013563271971242450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 128
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc451c5440092c1c0800000000000000
+      internalID: -4484863930883025717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360473e8465f3a380800000000000000
+      internalID: -8961049021305634717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 127
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71a66d5f2e6f3ed0800000000000000
+      internalID: -2432104124047253125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ff9c57131f36f00800000000000000
+      internalID: 1108995127995137900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 95
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cfa969795985a50800000000000000
+      internalID: 6510117739663391826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 98
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a504da0d398f50800000000000000
+      internalID: 6884100622128622071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3622a94690b41b50800000000000000
+      internalID: 6563064716512601658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b754540b6f08310800000000000000
+      internalID: 1405394320676453161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 105
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a305f749129bb6810800000000000000
+      internalID: 1759703633294741562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 102
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a367904909d0640800000000000000
+      internalID: 5047849722840496726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8645245bdf8d39e0800000000000000
+      internalID: -1639996517120653682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 66
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bc120873ead56b0800000000000000
+      internalID: -5305893232576443493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 67
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe13f4ba5ef3cbf0800000000000000
+      internalID: -305120684194717960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb322537b08c6260800000000000000
+      internalID: 7092185037560495103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2585f226aa5024c0800000000000000
+      internalID: -4314348773423348436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8e8710522606d20800000000000000
+      internalID: 3269721240548993217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 68
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7620601cae990fb00800000000000000
+      internalID: 860356762367558247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996850f91127d64c0800000000000000
+      internalID: -4292649449806264679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be7fe911f8d9e50800000000000000
+      internalID: 6817762716753062671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496940e37eb280030800000000000000
+      internalID: 3461064585812154004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624a97ed061426930800000000000000
+      internalID: 4134939292184716326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffebf8b19176e6490800000000000000
+      internalID: -7751144551123796225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 32
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0142808ae96447a10800000000000000
+      internalID: 1906226189522445328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ad5d5b608abbe60800000000000000
+      internalID: 7979155911590926947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f2c06ea421a69b0800000000000000
+      internalID: -5086232716265115746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_68
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 35
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd516e90ad577c0800000000000000
+      internalID: -4074110551836992442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 35
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8911565493059e0800000000000000
+      internalID: -1634743694524311357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9865b976cedf9f30800000000000000
+      internalID: 4584627889713277087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfff22868e9300670800000000000000
+      internalID: 8502859766817816572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276d0ae2a48c21790800000000000000
+      internalID: -7560760603466213774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuxair_73
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ee0cc2bb8e0970800000000000000
+      internalID: 8723063128307196175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tuxair_0: -2079721523629164887
+      tuxair_1: 3306733661610987649
+      tuxair_10: -7756823370215792830
+      tuxair_11: -1949972095993787223
+      tuxair_12: 4406116773932002431
+      tuxair_13: -229449410363332169
+      tuxair_14: -3909254878416762049
+      tuxair_15: -1256107876973223150
+      tuxair_16: 1252855000362026670
+      tuxair_17: -6731029072023276314
+      tuxair_18: -1282748387634469468
+      tuxair_19: 4770966523483821235
+      tuxair_2: -8433985519498789935
+      tuxair_20: 5346434951443606463
+      tuxair_21: 2799709946828112737
+      tuxair_22: 4008826366032740629
+      tuxair_23: 8043322759851942675
+      tuxair_24: -7282232914397986213
+      tuxair_25: 6683546270505886519
+      tuxair_26: -1060449079876776771
+      tuxair_27: 4942221249150959717
+      tuxair_28: -7483395446582225762
+      tuxair_29: -2123420178424029527
+      tuxair_3: -217715323657146672
+      tuxair_30: 8484640917297133619
+      tuxair_31: -3919391728525065953
+      tuxair_32: -4148139058250181251
+      tuxair_33: -2167416675440367980
+      tuxair_34: 1060026205822298736
+      tuxair_35: 762309445129017766
+      tuxair_36: -677651457933873373
+      tuxair_37: -274337020688736841
+      tuxair_38: -3556056067964973834
+      tuxair_39: -7030046036501913547
+      tuxair_4: 7425443645036839110
+      tuxair_40: -4655988777674819431
+      tuxair_41: 6984166724920204027
+      tuxair_42: -8013563271971242450
+      tuxair_43: -4484863930883025717
+      tuxair_44: -8961049021305634717
+      tuxair_45: -2432104124047253125
+      tuxair_46: 1108995127995137900
+      tuxair_47: 6510117739663391826
+      tuxair_48: 6884100622128622071
+      tuxair_49: 6563064716512601658
+      tuxair_5: 2992860841950377089
+      tuxair_50: 1405394320676453161
+      tuxair_51: 1759703633294741562
+      tuxair_52: 5047849722840496726
+      tuxair_53: -1639996517120653682
+      tuxair_54: -5305893232576443493
+      tuxair_55: -305120684194717960
+      tuxair_56: 7092185037560495103
+      tuxair_57: -4314348773423348436
+      tuxair_58: 3269721240548993217
+      tuxair_59: 860356762367558247
+      tuxair_6: -1661513945928954329
+      tuxair_60: -4292649449806264679
+      tuxair_61: 6817762716753062671
+      tuxair_62: 3461064585812154004
+      tuxair_63: 4134939292184716326
+      tuxair_64: -7751144551123796225
+      tuxair_65: 1906226189522445328
+      tuxair_66: 7979155911590926947
+      tuxair_67: -5086232716265115746
+      tuxair_68: -4074110551836992442
+      tuxair_69: -1634743694524311357
+      tuxair_7: -2139474025248081315
+      tuxair_70: 4584627889713277087
+      tuxair_71: 8502859766817816572
+      tuxair_72: -7560760603466213774
+      tuxair_73: 8723063128307196175
+      tuxair_8: 5646594316782446547
+      tuxair_9: 4891522202411849230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

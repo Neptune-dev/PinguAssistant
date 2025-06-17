@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ice_Pingu
+  m_Controller: {fileID: 9100000, guid: 020974142855bb74f9857775a1e76262, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 184abc7c9aa4b0e4e8b0de0ef6ebecfd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8bcfa138f2e89304f9eafe3440c2db64, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7d6bb83ef7d9d6e49b6993553e5aed42, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b7cbf07fe2e299e4eb7b8dfd5d940d33, type: 2}
