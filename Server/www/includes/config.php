@@ -2,8 +2,8 @@
 
 $dbName = '';
 $addr = getenv('DB_HOST');
-$MySQLusername = '';
-$MySQLpwd = '';
+$MySQLusername = getenv('DB_HOST');
+$MySQLpwd = getenv('DB_HOST');
 
 
 ?>

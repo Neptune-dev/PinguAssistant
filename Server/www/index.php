@@ -35,6 +35,13 @@ switch ($route) {
         break;
 
 
+    // debug
+
+    case '/testres':
+        require 'routes/debug/testres.php';
+        break;
+
+
     // errors
     
     case '/401':
