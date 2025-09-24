@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class AuthManager : MonoBehaviour
 {
-    [SerializeField] string userApiUrl;
+    [SerializeField] WebConfig webConfig;
 
     [SerializeField] InputField username;
     [SerializeField] InputField password;
@@ -24,7 +24,7 @@ public class AuthManager : MonoBehaviour
     private IEnumerator GetUser ()
     {
         
-        string uri = userApiUrl + "?username=" + username.text + "&pwd=" + password.text;
+        string uri = webConfig.webServerAddress + "?username=" + username.text + "&pwd=" + password.text;
 
         using (UnityWebRequest request = UnityWebRequest.Get(uri))
         {
@@ -36,7 +36,7 @@ public class AuthManager : MonoBehaviour
     private IEnumerator PostUser ()
     {
         
-        string uri = userApiUrl;
+        string uri = webConfig.webServerAddress;
 
         WWWForm form = new WWWForm();
         form.AddField("username", username.text);
