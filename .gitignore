@@ -13,7 +13,7 @@
 *.log
 
 # Environment variables
-*.env*
+.env*
 _env*
 
 # MemoryCaptures can get excessive in size.

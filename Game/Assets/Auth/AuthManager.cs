@@ -13,30 +13,35 @@ public class AuthManager : MonoBehaviour
 
     public void LogIn ()
     {
-        StartCoroutine(GetUser());
+        StartCoroutine(LoginCoroutine());
     }
 
     public void NewPlayer ()
     {
-        StartCoroutine(PostUser());
+        StartCoroutine(SinginCoroutine());
     }
 
-    private IEnumerator GetUser ()
+    private IEnumerator LoginCoroutine ()
     {
         
-        string uri = webConfig.webServerAddress + "?username=" + username.text + "&pwd=" + password.text;
+        string uri = webConfig.webServerAddress + "?req=login";
 
-        using (UnityWebRequest request = UnityWebRequest.Get(uri))
+        WWWForm form = new WWWForm();
+        form.AddField("username", username.text);
+        form.AddField("pwd", password.text);
+
+
+        using (UnityWebRequest request = UnityWebRequest.Post(uri, form))
         {
             yield return request.SendWebRequest();
             Debug.Log(request.downloadHandler.text);
         }
     }
 
-    private IEnumerator PostUser ()
+    private IEnumerator SinginCoroutine ()
     {
         
-        string uri = webConfig.webServerAddress;
+        string uri = webConfig.webServerAddress + "?req=signin";
 
         WWWForm form = new WWWForm();
         form.AddField("username", username.text);
