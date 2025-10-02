@@ -35,6 +35,10 @@ switch ($route) {
         break;
 
 
+    case '/api':
+        require 'routes/api.php';
+        break;
+
     // debug
 
     case '/testres':
